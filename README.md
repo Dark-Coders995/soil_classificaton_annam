@@ -1,4 +1,4 @@
-3# 🌱 Soil Classification Challenges - Image-Based ML
+# 🌱 Soil Classification Challenges - Image-Based ML
 
 This repository contains solutions for two image-based machine learning challenges focused on soil classification. Both challenges involved analyzing soil images and applying deep learning techniques to achieve the desired classification outcomes.
 
